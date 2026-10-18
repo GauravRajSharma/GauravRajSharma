@@ -30,7 +30,7 @@ Most of these live in private repos.
 ## Stack
 
 - **Languages**: TypeScript, Python, Go, Rust
-- **Health**: OpenMRS, Bahmni, Odoo, SENAITE, OHIF/DICOM, OCL, ICD-11
+- **Health**: OpenMRS, Odoo, SENAITE, OHIF/DICOM, OCL, ICD-11
 - **Web**: React, TanStack Start, Effect, FastAPI
 - **Infra**: Docker, Ansible, Caddy, PostgreSQL, Superset
 

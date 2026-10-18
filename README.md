@@ -1,1 +1,12 @@
-![Screen Shot 2021-03-13 at 16 44 57](https://user-images.githubusercontent.com/16515861/111027941-74977b00-841b-11eb-92b9-932b771f6fa7.png)
+# Gaurav Sharma
+
+I build and run EHRPlus, the electronic medical record used in 22 hospitals across Nepal:
+OpenMRS clinical, Odoo billing and pharmacy, SENAITE lab, PACS imaging, and the fleet
+tooling that keeps them up.
+
+Lately: ICD-11 coding, national health insurance claims, and agent tooling that lets
+coding agents support hospitals directly.
+
+Most of my work lives in private repos under nepaliemr.
+
+Kathmandu, Nepal · [Résumé](https://github.com/GauravRajSharma/Resume)
